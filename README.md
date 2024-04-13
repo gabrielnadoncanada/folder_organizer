@@ -29,6 +29,7 @@ Run the application by executing the script in Python:
 
 ```bash
 python folder_organizer_gui.py
+```
 
 ## Use the GUI to:
 
