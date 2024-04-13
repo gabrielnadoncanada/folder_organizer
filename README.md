@@ -33,32 +33,7 @@ python folder_organizer_gui.py
 
 ## Use the GUI to:
 
-Choose the folder you want to organize by clicking the "Browse" button.
-Select whether to back up files before organizing.
-Click "Organize" to start the organization process.
-View past organization actions in the list box and select a specific action to undo if necessary.
-
-Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-Fork the repository on GitHub.
-Create a new branch for your changes (git checkout -b feature-branch).
-Add your changes and commit them (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request against the main branch of the desktop-file-organizer repository.
-License
-This project is released under the MIT License. See the LICENSE file in the repository for more details.
-
-
-### Explanation of README Sections
-
-- **Introduction**: Briefly describes what the application does and its main features.
-- **Features**: Lists key functionalities of the application.
-- **Installation**: Provides simple steps on how to get the application running, including how to clone the repository.
-- **Dependencies**: Notes about necessary dependencies (Python and Tkinter).
-- **Usage**: Instructions on how to use the application via its GUI.
-- **Contributing**: Guidelines on how others can contribute to the project.
-- **License**: Indicates the type of licensing under which the project is released.
-
-This README provides potential users and contributors with all the necessary information to install, use, and contribute to your application. You can adjust the GitHub URL and other details to match your actual repository information.
-
+1. Choose the folder you want to organize by clicking the "Browse" button.
+2. Select whether to back up files before organizing.
+3. Click "Organize" to start the organization process.
+4. View past organization actions in the list box and select a specific action to undo if necessary.
